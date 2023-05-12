@@ -9,8 +9,9 @@ const Card = () => {
          src="../public/image-qr-code.png"
           style={{
             maxWidth: '250px',
-            width:'90%',
+            width:'100%',
             borderRadius : '5px',
+            
           }}
         />
         </div>
